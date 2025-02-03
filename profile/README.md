@@ -1,6 +1,6 @@
 # Techimo - Web App Development for Growing Businesses
 
-[![Techimo Logo](https://www.techimo.co/wp-content/uploads/2023/07/Techimo-Logo-Final.svg)](https://www.techimo.co)  *(Updated Logo Source)*
+![image](https://github.com/user-attachments/assets/2fb8d9f2-7aa7-4d45-a946-715015f872c3)
 
 We are Techimo, a web application design and development company dedicated to helping micro, small, and medium-sized businesses thrive online. We specialize exclusively in web app development, crafting bespoke solutions tailored to your unique needs.
 
