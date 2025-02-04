@@ -19,6 +19,7 @@ We boast a diverse and powerful tech stack, allowing us to tackle projects of an
 * **Frontend Development:** Vue.js, Next.js, React, TypeScript, Liquid, JavaScript, HTML
 * **Cloud Infrastructure:** AWS, Azure, GCP, Digital Ocean, Vercel
 * **Version Control:**  GitHub, Gitlab
+* **Security:** Sucuri, Wordfence, Cloudflare, Microsoft Defender for Cloud, AWS Web Application Firewall (WAF)  
 
 **We are a for-profit company, serving for-profit customers.**  As such, you'll find a curated selection of our public repositories here.  To experience the full extent of our capabilities and explore our comprehensive tech stack, we invite you to book a demo call.  We'd be delighted to showcase our private repositories and discuss how we can help your business grow.
 
