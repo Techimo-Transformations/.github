@@ -6,8 +6,7 @@ We are Techimo, a web application design and development company dedicated to he
 
 **We build the web, your way.**
 
-We understand that every business is different. That's why we take a consultative approach, working closely with you to understand your goals and develop a web application that drives results.  From e-commerce platforms to custom business tools, we have the expertise to bring your vision to life.
-
+At Techimo, we understand that every e-learning initiative and e-commerce venture is unique. That's why we take a consultative approach, working closely with you to understand your educational and business goals, and develop a custom, bespoke web application that drives impactful results. From interactive courses and custom learning management systems to comprehensive e-commerce platforms, we have the expertise to bring your vision to life.
 **Our Expertise:**
 
 We boast a diverse and powerful tech stack, allowing us to tackle projects of any complexity.  Our team is proficient in:
