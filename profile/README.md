@@ -12,8 +12,9 @@ We understand that every business is different. That's why we take a consultativ
 
 We boast a diverse and powerful tech stack, allowing us to tackle projects of any complexity.  Our team is proficient in:
 
-* **E-commerce Platforms:** Shopify, WordPress 
-* **Content Management Systems:** Umbraco, Squarespace, Webflow
+* **E-commerce Platforms:** Shopify, WordPress, Magento, Salesforce Commerce Clould
+* **E-lerning Platforms:** WordPress, Learndash, Tutor LMS 
+* **Content Management Systems:** Umbraco, HubSpot, Squarespace, Webflow
 * **Backend Development:** PHP, Laravel, Python, Node
 * **Frontend Development:** Vue.js, Next.js, React, TypeScript, Liquid, JavaScript, HTML
 * **Cloud Infrastructure:** AWS, Azure, GCP, Digital Ocean, Vercel
