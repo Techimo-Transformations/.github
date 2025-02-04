@@ -13,7 +13,7 @@ At Techimo, we understand that every e-learning initiative and e-commerce ventur
 
 We boast a diverse and powerful tech stack, allowing us to tackle projects of any complexity.  Our team is proficient in:
 * **E-commerce Platforms:** Shopify, WordPress, Magento, Salesforce Commerce Clould
-* **E-lerning Platforms:** WordPress, Learndash, Tutor LMS 
+* **E-lerning Platforms:** Moodle, Docebo Learndash, Tutor LMS, TalentLMS
 * **Content Management Systems:** Umbraco, HubSpot, Squarespace, Webflow
 * **Backend Development:** PHP, Laravel, Python, Node
 * **Frontend Development:** Vue.js, Next.js, React, TypeScript, Liquid, JavaScript, HTML
