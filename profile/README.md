@@ -21,7 +21,7 @@ We boast a diverse and powerful tech stack, allowing us to tackle projects of an
 * **Version Control:**  GitHub, Gitlab
 * **Security:** Sucuri, Wordfence, Cloudflare, Microsoft Defender for Cloud, AWS Web Application Firewall (WAF)  
 
-**We specialize in delivering high-quality solutions for our clients. You can explore a curated selection of our public repositories here. To get a comprehensive understanding of our full capabilities and explore our extensive tech stack, we warmly invite you to schedule a demo call with us. During this session, we would be thrilled to showcase our private repositories and discuss how we can help your business grow.
+We specialize in delivering high-quality solutions for our clients. You can explore a curated selection of our public repositories here. To get a comprehensive understanding of our full capabilities and explore our extensive tech stack, we warmly invite you to schedule a demo call with us. During this session, we would be thrilled to showcase our private repositories and discuss how we can help your business grow.
 
 **Connect with us:**
 
