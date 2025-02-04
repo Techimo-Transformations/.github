@@ -7,10 +7,11 @@ We are Techimo, a web application design and development company dedicated to he
 **We build the web, your way.**
 
 At Techimo, we understand that every e-learning initiative and e-commerce venture is unique. That's why we take a consultative approach, working closely with you to understand your educational and business goals, and develop a custom, bespoke web application that drives impactful results. From interactive courses and custom learning management systems to comprehensive e-commerce platforms, we have the expertise to bring your vision to life.
+
+
 **Our Expertise:**
 
 We boast a diverse and powerful tech stack, allowing us to tackle projects of any complexity.  Our team is proficient in:
-
 * **E-commerce Platforms:** Shopify, WordPress, Magento, Salesforce Commerce Clould
 * **E-lerning Platforms:** WordPress, Learndash, Tutor LMS 
 * **Content Management Systems:** Umbraco, HubSpot, Squarespace, Webflow
