@@ -1,4 +1,4 @@
-# Techimo - Web App Development for Growing Businesses
+# Techimo - Web app development for growing businesses!
 
 ![image](https://github.com/user-attachments/assets/2fb8d9f2-7aa7-4d45-a946-715015f872c3)
 
