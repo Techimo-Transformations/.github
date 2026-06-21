@@ -2,37 +2,35 @@
 
 <img width="304" height="88" alt="techimo b w logo" src="https://github.com/user-attachments/assets/1c0e4ada-7115-495f-93ca-4024b68384ce" />
 
-Build, Manage & Secure Business-Critical Digital Platforms
-
 Techimo helps organisations build, maintain and secure web applications, learning platforms and e-commerce systems.
 
 We specialise in:
 
-•Learning Management Systems (LMS)
-•Custom PHP & Laravel Development
-•WordPress Development & Support
-•Shopify Development & Support
-•SaaS Product Development
-•Cloud Hosting & Infrastructure Management
-•Security, Backups & Business Continuity
+ •Learning Management Systems (LMS)
+ •Custom PHP & Laravel Development
+ •WordPress Development & Support
+ •Shopify Development & Support
+ •SaaS Product Development
+ •Cloud Hosting & Infrastructure Management
+ •Security, Backups & Business Continuity
 
 Core Technologies
-•PHP
-•Laravel
-•WordPress
-•Shopify
-•MySQL
-•JavaScript
-•Azure
-•AWS
-•Cloudflare
-•GitHub
+ •PHP
+ •Laravel
+ •WordPress
+ •Shopify
+ •MySQL
+ •JavaScript
+ •Azure
+ •AWS
+ •Cloudflare
+ •GitHub
 
 Products & Platforms
-•Tolearn Academy
-•TuningDesk
-•Custom Client Portals
-•E-learning & Compliance Platforms
+ •Tolearn Academy
+ •TuningDesk
+ •Custom Client Portals
+ •E-learning & Compliance Platforms
 
 **Connect with us:**
 
