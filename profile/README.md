@@ -1,6 +1,7 @@
-# Techimo - Web app development for growing businesses!
+# Techimo - Build, Manage & Secure Your Digital Infrastructure
 
-![image](https://github.com/user-attachments/assets/2fb8d9f2-7aa7-4d45-a946-715015f872c3)
+<img width="304" height="88" alt="techimo b w logo" src="https://github.com/user-attachments/assets/1c0e4ada-7115-495f-93ca-4024b68384ce" />
+
 
 We are Techimo, a web application design and development company dedicated to helping micro, small, and medium-sized businesses thrive online. We specialize exclusively in web app development, crafting bespoke solutions tailored to your unique needs.
 
