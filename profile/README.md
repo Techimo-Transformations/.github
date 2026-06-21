@@ -2,13 +2,11 @@
 
 <img width="304" height="88" alt="techimo b w logo" src="https://github.com/user-attachments/assets/1c0e4ada-7115-495f-93ca-4024b68384ce" />
 
-
 We are Techimo, a web application design and development company dedicated to helping micro, small, and medium-sized businesses thrive online. We specialize exclusively in web app development, crafting bespoke solutions tailored to your unique needs.
 
 **We build the web, your way.**
 
 At Techimo, we understand that every e-learning initiative and e-commerce venture is unique. That's why we take a consultative approach, working closely with you to understand your educational and business goals, and develop a custom, bespoke web application that drives impactful results. From interactive courses and custom learning management systems to comprehensive e-commerce platforms, we have the expertise to bring your vision to life.
-
 
 **Our Expertise:**
 
@@ -28,8 +26,8 @@ We specialize in delivering high-quality solutions for our clients. You can expl
 
 * **Website:** [www.techimo.co](https://www.techimo.co)
 * **Email:** [support@techimo.in](mailto:support@techimo.in)
-* **Phone (UK):** [+44 744 695 7398](tel:+447446957398)
-* **Phone (India):** [+91 020 2999 8969](tel:+9102029998969)
+* **Phone (UK):** <a href="tel:+447446957398">+44 744 695 7398</a>
+* **Phone (India):** <a href="tel:+9102029998969">+91 020 2999 8969</a>
 * **LinkedIn:** [linkedin.com/company/techimotransformations/](https://www.linkedin.com/company/techimotransformations/)
 * **X (Twitter):** [x.com/TechimoTrans](https://x.com/TechimoTrans)
 * **Facebook:** [facebook.com/Techimotransformations/](https://www.facebook.com/Techimotransformations/)
