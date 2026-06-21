@@ -38,8 +38,8 @@ Techimo helps organisations build, maintain and secure web applications, learnin
 
 * **Website:** [www.techimo.co](https://www.techimo.co)
 * **Email:** [support@techimo.in](mailto:support@techimo.in)
-* **Phone (UK): [📞 +44 744 695 7398](tel:+447446957398)
-* **Phone (India):[📞 +91 20 2999 8969](tel:+912029998969)
+* **Phone (UK):** [+44 744 695 7398](tel:+447446957398)
+* **Phone (India):**[+91 20 2999 8969](tel:+9102029998969)
 * **LinkedIn:** [linkedin.com/company/techimotransformations/](https://www.linkedin.com/company/techimotransformations/)
 * **X (Twitter):** [x.com/TechimoTrans](https://x.com/TechimoTrans)
 * **Facebook:** [facebook.com/Techimotransformations/](https://www.facebook.com/Techimotransformations/)
