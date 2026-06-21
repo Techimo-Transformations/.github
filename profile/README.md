@@ -4,33 +4,35 @@
 
 Techimo helps organisations build, maintain and secure web applications, learning platforms and e-commerce systems.
 
-We specialise in:
+## What We Do
 
- •Learning Management Systems (LMS)
- •Custom PHP & Laravel Development
- •WordPress Development & Support
- •Shopify Development & Support
- •SaaS Product Development
- •Cloud Hosting & Infrastructure Management
- •Security, Backups & Business Continuity
+- Learning Management Systems (LMS)
+- Custom PHP & Laravel Development
+- WordPress Development & Support
+- Shopify Development & Support
+- SaaS Product Development
+- Cloud Hosting & Infrastructure Management
+- Security, Backups & Business Continuity
 
-Core Technologies
- •PHP
- •Laravel
- •WordPress
- •Shopify
- •MySQL
- •JavaScript
- •Azure
- •AWS
- •Cloudflare
- •GitHub
+## Core Technologies
 
-Products & Platforms
- •Tolearn Academy
- •TuningDesk
- •Custom Client Portals
- •E-learning & Compliance Platforms
+- PHP
+- Laravel
+- WordPress
+- Shopify
+- MySQL
+- JavaScript
+- Azure
+- AWS
+- Cloudflare
+- GitHub
+
+## Products & Platforms
+
+- [Tolearn Academy](https://tolearn.academy) – E-learning and compliance platform
+- [TuningDesk](https://tuningdesk.com) – Professional ECU tuning management platform
+- Custom Client Portals
+- Learning & Compliance Platforms
 
 **Connect with us:**
 
