@@ -27,6 +27,8 @@ We specialize in delivering high-quality solutions for our clients. You can expl
 
 * **Website:** [www.techimo.co](https://www.techimo.co)
 * **Email:** [support@techimo.in](mailto:support@techimo.in)
+* **Phone (UK):** [+44 744 695 7398](tel:+447446957398)
+* **Phone (India):** [+91 020 2999 8969](tel:+9102029998969)
 * **LinkedIn:** [linkedin.com/company/techimotransformations/](https://www.linkedin.com/company/techimotransformations/)
 * **X (Twitter):** [x.com/TechimoTrans](https://x.com/TechimoTrans)
 * **Facebook:** [facebook.com/Techimotransformations/](https://www.facebook.com/Techimotransformations/)
