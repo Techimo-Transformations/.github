@@ -2,25 +2,37 @@
 
 <img width="304" height="88" alt="techimo b w logo" src="https://github.com/user-attachments/assets/1c0e4ada-7115-495f-93ca-4024b68384ce" />
 
-We are Techimo, a web application design and development company dedicated to helping micro, small, and medium-sized businesses thrive online. We specialize exclusively in web app development, crafting bespoke solutions tailored to your unique needs.
+Build, Manage & Secure Business-Critical Digital Platforms
 
-**We build the web, your way.**
+Techimo helps organisations build, maintain and secure web applications, learning platforms and e-commerce systems.
 
-At Techimo, we understand that every e-learning initiative and e-commerce venture is unique. That's why we take a consultative approach, working closely with you to understand your educational and business goals, and develop a custom, bespoke web application that drives impactful results. From interactive courses and custom learning management systems to comprehensive e-commerce platforms, we have the expertise to bring your vision to life.
+We specialise in:
 
-**Our Expertise:**
+•Learning Management Systems (LMS)
+•Custom PHP & Laravel Development
+•WordPress Development & Support
+•Shopify Development & Support
+•SaaS Product Development
+•Cloud Hosting & Infrastructure Management
+•Security, Backups & Business Continuity
 
-We boast a diverse and powerful tech stack, allowing us to tackle projects of any complexity.  Our team is proficient in:
-* **E-commerce Platforms:** Shopify, WordPress, Magento, Salesforce Commerce Clould
-* **E-lerning Platforms:** Moodle, Docebo Learndash, Tutor LMS, TalentLMS
-* **Content Management Systems:** Umbraco, HubSpot, Squarespace, Webflow
-* **Backend Development:** PHP, Laravel, Python, Node
-* **Frontend Development:** Vue.js, Next.js, React, TypeScript, Liquid, JavaScript, HTML
-* **Cloud Infrastructure:** AWS, Azure, GCP, Digital Ocean, Vercel
-* **Version Control:**  GitHub, Gitlab
-* **Security:** Sucuri, Wordfence, Cloudflare, Microsoft Defender for Cloud, AWS Web Application Firewall (WAF)  
+Core Technologies
+•PHP
+•Laravel
+•WordPress
+•Shopify
+•MySQL
+•JavaScript
+•Azure
+•AWS
+•Cloudflare
+•GitHub
 
-We specialize in delivering high-quality solutions for our clients. You can explore a curated selection of our public repositories here. To get a comprehensive understanding of our full capabilities and explore our extensive tech stack, we warmly invite you to schedule a demo call with us. During this session, we would be thrilled to showcase our private repositories and discuss how we can help your business grow.
+Products & Platforms
+•Tolearn Academy
+•TuningDesk
+•Custom Client Portals
+•E-learning & Compliance Platforms
 
 **Connect with us:**
 
