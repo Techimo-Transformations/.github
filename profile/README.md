@@ -2,6 +2,7 @@
 
 <img width="304" height="88" alt="techimo b w logo" src="https://github.com/user-attachments/assets/1c0e4ada-7115-495f-93ca-4024b68384ce" />
 
+
 Techimo helps organisations build, maintain and secure web applications, learning platforms and e-commerce systems.
 
 ## What We Do
